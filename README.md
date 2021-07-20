@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=a-velasquez.Alex)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=a-velasquez.Git-Profile)
 
 ## Hi there, I'm Alex
 
