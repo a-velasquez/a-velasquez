@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React + Redux
 - 💻 I’m looking to land my first job as a junior developer
-- 🥅 2021 Goals: Create more fun and interesting project with new frameworks and
+- 🥅 2021 Goals: Create more fun and interesting projects with new frameworks and
   languages
 - ⚡ Fun fact: I love to draw, play drums, and collect retro videogames.
 
@@ -15,7 +15,7 @@
 [<img align="left" alt=" Alex | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/velasquezalex/)
 <br/><br/>
 
-### Languages and Tools:
+### Languages and Tools I've Used:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
